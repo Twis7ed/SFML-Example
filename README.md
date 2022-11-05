@@ -1,2 +1,2 @@
-# SFML-Example
+# SFML Sprite Example
 Example code for SFML
